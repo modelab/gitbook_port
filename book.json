@@ -1,0 +1,8 @@
+{
+    "plugins": ["base"],
+	"pluginsConfig": {
+        "base":{
+            "base": "https://raw.githubusercontent.com/ekatzenstein/gitbook_port/7a9d77ea709458562f5d1a391f3ad339133b1389/"
+        }
+    }
+}
